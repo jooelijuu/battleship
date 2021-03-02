@@ -43,7 +43,7 @@ export default StyleSheet.create({
     fontSize: 18,
   },
   row: {
-    margin: 20,
+    margin: 10,
     padding: 10
   },
   flex: {
